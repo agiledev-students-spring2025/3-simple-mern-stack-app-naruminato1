@@ -1,0 +1,24 @@
+.About-container {
+    max-width: 770px;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .About-image {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 30%;
+    margin: 10px auto;
+  }
+  
+  .About-bio {
+    font-size: 1.1em;
+    line-height: 1.3;
+    margin: 15px 0;
+  }
+  
+  .About-error {
+    color: rgb(239, 47, 47);
+  }
